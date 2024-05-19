@@ -4,7 +4,6 @@ Projeto Integrador: Implatação de Banco de Dados
 
 Integrantes: 
 - Fabiane Yoshie Otani Ueda da Silva
-- Felipe Fernandes Rebello
 - Fernando Messias da Mata
 - João Paulo do Nascimento
 - Jorge de Carvalho Cavalcanti
